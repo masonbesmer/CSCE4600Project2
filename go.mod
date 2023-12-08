@@ -1,6 +1,6 @@
 module masonbesmer/CSCE4600Project2
 
-go 1.21.5
+go 1.19
 
 require (
 	github.com/masonbesmer/CSCE4600 v0.0.0-20231015135515-6ba266bc79c6
