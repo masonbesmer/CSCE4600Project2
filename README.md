@@ -17,7 +17,6 @@ There are many builtins or shell-adjacent commands to pick from:
 Feel free to pick from `sh`, `bash`, `csh`, `tcsh`, `ksh` or `zsh` builtins... or if you have something else in mind, ping me and we'll work it out.
 
 As an example, two shell builtins have already been added to the package builtins:
-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 df1fd21d78972829cf2cd9190c069061
 - `cd`
 - `env`
 
