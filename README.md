@@ -1,6 +1,6 @@
 # Project 2: Shell Builtins
 
-[![golangci-lint](https://github.com/jh125486/CSCE4600/actions/workflows/golangci-lint.yml/badge.svg?branch=main)](https://github.com/jh125486/CSCE4600/actions/workflows/golangci-lint.yml)
+[![golangci-lint](https://github.com/masonbesmer/CSCE4600Project2/actions/workflows/golangci-lint.yml/badge.svg?branch=main)](https://github.com/masonbesmer/CSCE4600Project2/actions/workflows/golangci-lint.yml)
 ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/masonbesmer/df1fd21d78972829cf2cd9190c069061/raw/coverage.json)
 
 ## Description
